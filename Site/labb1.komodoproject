@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="f8b31444-5d19-4edd-a2f2-f802be07f58d" kpf_version="5" name="labb1.komodoproject">
+<livefolder id="61d69db9-afc2-41e4-a63e-b2b805340e58" idref="f8b31444-5d19-4edd-a2f2-f802be07f58d" name="uppgift_1" url="sftp://RPI/home/thomas/public_html/uppgift_1">
+</livefolder>
+<preference-set idref="f8b31444-5d19-4edd-a2f2-f802be07f58d" id="project" preftype="project">
+  <string id="import_dirname">sftp://RPI/home/thomas/public_html/uppgift_1</string>
+  <string id="jshint_linter_chooser">default</string>
+  <string id="jslint_linter_chooser">default</string>
+<preference-set id="languages">
+</preference-set>
+  <string id="last_remote_directory">sftp://RPI/home/thomas/public_html/uppgift_1</string>
+</preference-set>
+</project>
